@@ -16,7 +16,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 - 🧠 My strongest work sits where **AI / computer vision** meets **full-stack** engineering
 - ⚙️ I like backend systems that stay correct under load: an oversell-safe booking API in **Spring Boot** and a **Redis clone in C**
 - 📜 **2 published patents** (India) and an **IEEE** conference paper
-- 🏆 National hackathons at **IIT Madras, NIT Trichy, KPR and CIT** · SIH internal-round winner · DEVSPARK'25 runner-up
+- 🏆 National hackathons at **IIT Madras, NIT Trichy, KPR and CIT** · shortlisted in the **Smart India Hackathon 2025** internal round
 - 🔭 Going deeper into **system design, TypeScript and applied ML**
 - 🎯 Looking for **SDE / AI internships**. The fastest way to reach me is [email](mailto:lakshmanan2062007@gmail.com).
 
@@ -60,8 +60,8 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 
 ## Hackathons & contests
 
-- 🥇 **Winner** — Smart India Hackathon, internal round · *VSB CETC, 2025*
-- 🥈 **Runner-up** — DEVSPARK'25 24-hr hackathon, IEEE CS SYP zonal event · *KPR IET, Sep 2025*
+- 🏅 **Shortlisted** — Smart India Hackathon 2025, college internal round for the SIH finals · *VSB CETC, 2025*
+- ⚡ **DEVSPARK'25** 24-hr hackathon and Agentic AI boot camp, IEEE CS SYP zonal event · *KPR IET, Sep 2025*
 - ⚡ **Pragyan 2026** NextGen Tech Hackathon, 24 hours · *NIT Trichy, Feb 2026*
 - ⚡ **Shaastra 2026** Visa 24-hr AI Hackathon, E-Contest and Main Quiz · *IIT Madras*
 - ⚡ **CRYPTERA 2026** Vibe Coding, CP Royale and 0xDebug · *CIT Coimbatore, Jan 2026*
