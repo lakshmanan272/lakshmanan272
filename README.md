@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a Computer Science undergrad at **VSB College of Engineering Technical Campus, Coimbatore** (B.E. CSE, 2024 – 28 · CGPA 8.6). I like the part of engineering where an idea becomes something people can actually run: an object tracker that works offline in the browser, a voice agent that speaks Tamil, a portal my whole class uses.
+I'm a Computer Science undergrad at **VSB College of Engineering Technical Campus, Coimbatore** (B.E. CSE, 2024 – 28 · CGPA 8.6). I like the part of engineering where an idea becomes something people can actually run: a desktop agent that obeys your voice, a voice agent that speaks Tamil, a portal my whole class uses.
 
 - 🧠 My strongest work sits where **AI / computer vision** meets **full-stack** engineering
 - 📜 **2 published patents** (India) and a research paper in **IEEE Access**
@@ -19,17 +19,17 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 - 🔭 Going deeper into **system design, TypeScript and applied ML**
 - 🎯 Looking for **SDE / AI internships**. The fastest way to reach me is [email](mailto:lakshmanan2062007@gmail.com).
 
-<img src="assets/stats.svg" width="100%" alt="CGPA 8.6 · 2 patents published · 1 IEEE Access paper · 329 LeetCode problems solved · 7 hackathons and contests · 12 live deployments">
+<img src="assets/stats.svg" width="100%" alt="CGPA 8.6 · 2 patents published · 1 IEEE Access paper · 329 LeetCode problems solved · 7 hackathons and contests · 11 live deployments">
 
 ## Featured work
 
 <p align="center">
   <a href="https://github.com/lakshmanan272/agent-jarvis"><img src="assets/card-jarvis.svg" width="49%" alt="Jarvis — offline voice and text desktop agent for Windows"></a>
-  <a href="https://lakshmanan272.github.io/Pragyan_khel-NIT-TRICHY-/"><img src="assets/card-smart-focus.svg" width="49%" alt="AI Smart Focus — real-time object detection and tracking in the browser"></a>
   <a href="https://kadai-ai.vercel.app"><img src="assets/card-kadai-ai.svg" width="49%" alt="Kadai AI — voice ordering agent for a supermarket in Tamil, Tanglish and English"></a>
   <a href="https://intel-shield-eta.vercel.app"><img src="assets/card-intel-shield.svg" width="49%" alt="Intel-Shield — evidence graph for investigative data"></a>
   <a href="https://roshambot.vercel.app"><img src="assets/card-roshambot.svg" width="49%" alt="Roshambot — rock paper scissors bot that learns your habits"></a>
   <a href="https://blue-strike-tennis.vercel.app"><img src="assets/card-blue-strike.svg" width="49%" alt="Blue Strike Tennis — webcam motion-controlled 3D tennis"></a>
+  <a href="https://superjet-game.vercel.app"><img src="assets/card-head-jet.svg" width="49%" alt="Head Jet — arcade game you steer with your head using MediaPipe face tracking"></a>
 </p>
 
 <details>
@@ -38,8 +38,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 
 | Project | What it is | Link |
 |:--|:--|:--|
-| **V3 Entertainments** | Multi-page site for the 3D-hologram advertising startup I co-founded. Next.js 14, Tailwind, Framer Motion, PostgreSQL quote form | [Live](https://v3-hologram-website.vercel.app) |
-| **Head Jet** | Arcade game you steer with your head: MediaPipe face tracking through the webcam | [Play](https://superjet-game.vercel.app) |
+| **V3 Entertainments** | Multi-page site for a 3D-hologram advertising company. Next.js 14, Tailwind, Framer Motion, PostgreSQL quote form | [Live](https://v3-hologram-website.vercel.app) |
 | **SparkPhone QR** | Type a wish or a prank in English, Tamil or Tanglish; an LLM designs a full-screen phone page you share by QR | [Live](https://spark-phone-qr.vercel.app) |
 | **Placement Portal** | Next.js 14 + Prisma + Neon Postgres app my class of 63 uses to register hackathon and internship teams, with race-safe first-come slots | Private |
 | **OpportunityOS** | Self-hosted tracker that pulls hackathons and internships from Gmail and Unstop, extracts details with an LLM and escalates deadline reminders | Private |
@@ -60,7 +59,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 
 - 🥇 **Winner** — Smart India Hackathon, internal round · *VSB CETC, 2025*
 - 🥈 **Runner-up** — DEVSPARK'25 24-hr hackathon, IEEE CS SYP zonal event · *KPR IET, Sep 2025*
-- ⚡ **Pragyan 2026** NextGen Tech Hackathon — built AI Smart Focus in 24 hours · *NIT Trichy, Feb 2026*
+- ⚡ **Pragyan 2026** NextGen Tech Hackathon, 24 hours · *NIT Trichy, Feb 2026*
 - ⚡ **Shaastra 2026** Visa 24-hr AI Hackathon, E-Contest and Main Quiz · *IIT Madras*
 - ⚡ **CRYPTERA 2026** Vibe Coding, CP Royale and 0xDebug · *CIT Coimbatore, Jan 2026*
 - ⚡ **IDEATHON 2K24** — certificate of appreciation · *VSB CETC, Oct 2024*
@@ -76,12 +75,9 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,mongodb,mysql,firebase,threejs,flask,vite,vercel,git,github,vscode&perline=11&theme=dark" alt="Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Prisma, PostgreSQL, MongoDB, MySQL, Firebase, Three.js, Flask, Vite, Vercel, Git, GitHub, VS Code">
 
 <p>
-  <img src="https://img.shields.io/badge/YOLOv11-0F1828?style=for-the-badge" alt="YOLOv11">
-  <img src="https://img.shields.io/badge/ONNX_Runtime-0F1828?style=for-the-badge&logo=onnx&logoColor=3AE5EC" alt="ONNX Runtime">
-  <img src="https://img.shields.io/badge/ByteTrack-0F1828?style=for-the-badge" alt="ByteTrack">
   <img src="https://img.shields.io/badge/MediaPipe-0F1828?style=for-the-badge&logo=mediapipe&logoColor=3AE5EC" alt="MediaPipe">
-  <img src="https://img.shields.io/badge/WebGL_/_GLSL-0F1828?style=for-the-badge&logo=webgl&logoColor=9A6BFF" alt="WebGL / GLSL">
   <img src="https://img.shields.io/badge/ElevenLabs-0F1828?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/Vosk_(offline_speech)-0F1828?style=for-the-badge" alt="Vosk offline speech recognition">
   <img src="https://img.shields.io/badge/NetworkX-0F1828?style=for-the-badge" alt="NetworkX">
 </p>
 
