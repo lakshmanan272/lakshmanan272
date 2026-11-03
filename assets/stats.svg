@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="CGPA 8.6, 2 patents published, 1 IEEE Access paper, 329 LeetCode problems solved, 7 hackathons and contests, 12 live deployments">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="prem" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3AE5EC"/><stop offset=".45" stop-color="#7DA8FF"/><stop offset="1" stop-color="#9A6BFF"/></linearGradient>
+  <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F1828"/><stop offset="1" stop-color="#0A0F1E"/></linearGradient>
+</defs>
+<g>
+  <rect x="1" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="74.17" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="94.17" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">8.6</text>
+  <text class="mono" x="94.17" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">CGPA</text>
+  <text class="mono" x="94.17" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">OUT OF 10</text>
+</g>
+<g>
+  <rect x="203.33" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="276.5" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="296.5" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">2</text>
+  <text class="mono" x="296.5" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">PATENTS</text>
+  <text class="mono" x="296.5" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">PUBLISHED</text>
+</g>
+<g>
+  <rect x="405.67" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="478.83" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="498.83" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">1</text>
+  <text class="mono" x="498.83" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">IEEE ACCESS</text>
+  <text class="mono" x="498.83" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">PAPER</text>
+</g>
+<g>
+  <rect x="608" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="681.17" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="701.17" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">329</text>
+  <text class="mono" x="701.17" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">LEETCODE</text>
+  <text class="mono" x="701.17" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">SOLVED</text>
+</g>
+<g>
+  <rect x="810.33" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="883.5" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="903.5" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">7</text>
+  <text class="mono" x="903.5" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">HACKATHONS</text>
+  <text class="mono" x="903.5" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">&amp; CONTESTS</text>
+</g>
+<g>
+  <rect x="1012.67" y="1" width="186.33" height="166" rx="18" fill="url(#tile)" stroke="#1C2A43"/>
+  <rect x="1085.83" y="1" width="40" height="3" rx="1.5" fill="url(#prem)"/>
+  <text class="sans" x="1105.83" y="80" font-size="54" font-weight="800" text-anchor="middle" fill="url(#prem)" letter-spacing="-1">12</text>
+  <text class="mono" x="1105.83" y="114" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#EAF0FB">LIVE</text>
+  <text class="mono" x="1105.83" y="136" font-size="14" text-anchor="middle" letter-spacing="1.5" fill="#5E7295">DEPLOYMENTS</text>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for stopping by. Email lakshmanan2062007@gmail.com">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="prem" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#3AE5EC"/><stop offset=".45" stop-color="#7DA8FF"/><stop offset="1" stop-color="#9A6BFF"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1E"/><stop offset="1" stop-color="#05070F"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3AE5EC" stop-opacity="0"/><stop offset=".3" stop-color="#3AE5EC"/><stop offset=".7" stop-color="#9A6BFF"/><stop offset="1" stop-color="#9A6BFF" stop-opacity="0"/></linearGradient>
+  <clipPath id="clip"><rect width="1200" height="120" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)"><rect width="1200" height="120" fill="url(#bg)"/><rect width="1200" height="2" fill="url(#edge)"/></g>
+<rect x=".5" y=".5" width="1199" height="119" rx="20" fill="none" stroke="#1C2A43"/>
+<text class="sans" x="600" y="54" font-size="24" font-weight="700" text-anchor="middle" fill="#EAF0FB">Thanks for stopping by — <tspan fill="url(#prem)">let's build something.</tspan></text>
+<text class="mono" x="600" y="86" font-size="15" text-anchor="middle" fill="#93A4C2">lakshmanan2062007@gmail.com  <tspan fill="#5E7295">·</tspan>  Coimbatore, India</text>
+</svg>

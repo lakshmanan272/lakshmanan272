@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="52" viewBox="0 0 200 52" role="img" aria-label="Portfolio">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x=".75" y=".75" width="198.5" height="50.5" rx="26" fill="#0A0F1E" stroke="#28395a" stroke-width="1.5"/>
+<circle cx="26" cy="26" r="17" fill="#3AE5EC"/>
+<g transform="translate(17 17) scale(.75)"><g fill="none" stroke="#05070F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g></g>
+<text class="sans" x="54" y="32.5" font-size="17" font-weight="700" fill="#EAF0FB">Portfolio</text>
+<text class="sans" x="178" y="32" font-size="17" text-anchor="end" fill="#5E7295">→</text>
+</svg>
