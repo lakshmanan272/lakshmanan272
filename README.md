@@ -14,16 +14,19 @@
 I'm a Computer Science undergrad at **VSB College of Engineering Technical Campus, Coimbatore** (B.E. CSE, 2024 – 28 · CGPA 8.6). I like the part of engineering where an idea becomes something people can actually run: a desktop agent that obeys your voice, a voice agent that speaks Tamil, a portal my whole class uses.
 
 - 🧠 My strongest work sits where **AI / computer vision** meets **full-stack** engineering
-- 📜 **2 published patents** (India) and a research paper in **IEEE Access**
+- ⚙️ I like backend systems that stay correct under load: an oversell-safe booking API in **Spring Boot** and a **Redis clone in C**
+- 📜 **2 published patents** (India) and an **IEEE** conference paper
 - 🏆 National hackathons at **IIT Madras, NIT Trichy, KPR and CIT** · SIH internal-round winner · DEVSPARK'25 runner-up
 - 🔭 Going deeper into **system design, TypeScript and applied ML**
 - 🎯 Looking for **SDE / AI internships**. The fastest way to reach me is [email](mailto:lakshmanan2062007@gmail.com).
 
-<img src="assets/stats.svg" width="100%" alt="CGPA 8.6 · 2 patents published · 1 IEEE Access paper · 329 LeetCode problems solved · 7 hackathons and contests · 11 live deployments">
+<img src="assets/stats.svg" width="100%" alt="CGPA 8.6 · 2 patents published · 1 IEEE publication · 329 LeetCode problems solved · 7 hackathons and contests · 12 live deployments">
 
 ## Featured work
 
 <p align="center">
+  <a href="https://bookmyevent-rho.vercel.app"><img src="assets/card-bookmyevent.svg" width="49%" alt="BookMyEvent — oversell-safe event ticket booking with Spring Boot and Next.js"></a>
+  <a href="https://github.com/lakshmanan272/miniredis"><img src="assets/card-miniredis.svg" width="49%" alt="MiniRedis — a Redis clone written in C with RESP, TTL expiry and a distributed lock"></a>
   <a href="https://github.com/lakshmanan272/agent-jarvis"><img src="assets/card-jarvis.svg" width="49%" alt="Jarvis — offline voice and text desktop agent for Windows"></a>
   <a href="https://kadai-ai.vercel.app"><img src="assets/card-kadai-ai.svg" width="49%" alt="Kadai AI — voice ordering agent for a supermarket in Tamil, Tanglish and English"></a>
   <a href="https://intel-shield-eta.vercel.app"><img src="assets/card-intel-shield.svg" width="49%" alt="Intel-Shield — evidence graph for investigative data"></a>
@@ -52,7 +55,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 |:--|:--|:--|
 | 📜 **Patent** | **Electrifying the Future: Windmills × Tesla Coils**<br><sub>Wind power sent wirelessly through a Tesla coil, then rectified and stored</sub> | Indian patent app. 202441089752 A<br><sub>Published 29 Nov 2024</sub> |
 | 📜 **Patent** | **GaiaNet — Quantum-AI Survival Shield**<br><sub>IoT sensor network and AI that predicts disasters, backed by quantum computing</sub> | Indian patent app. 202541088719 A<br><sub>Published 17 Oct 2025</sub> |
-| 📄 **IEEE Access** | **TIART — Tri-Stage Integrated Attention Residual Transformer**<br><sub>Deep-learning model for rural e-commerce priority prediction</sub> | [doi:10.1109/ACCESS.2025.3558391](https://doi.org/10.1109/ACCESS.2025.3558391) |
+| 📄 **IEEE · ICCPCT 2026** | **Detection of REM Sleep Behavior Disorder Using LSTM and GNN Model**<br><sub>Deep-learning detection of an early marker of Parkinson's disease</sub> | [doi:10.1109/ICCPCT70290.2026.11654757](https://doi.org/10.1109/ICCPCT70290.2026.11654757)<br><sub>Kollam, Aug 2026 · pp. 885–889</sub> |
 | 🎤 **ICSAIC 2026** | **Cognitive Phantom Networks**<br><sub>AI hallucination as a self-replicating attack surface in cybersecurity</sub> | Paper presented<br><sub>Noorul Islam Centre for Higher Education</sub> |
 
 ## Hackathons & contests
@@ -72,7 +75,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 
 ## Toolkit
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,mongodb,mysql,firebase,threejs,flask,vite,vercel,git,github,vscode&perline=11&theme=dark" alt="Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Prisma, PostgreSQL, MongoDB, MySQL, Firebase, Three.js, Flask, Vite, Vercel, Git, GitHub, VS Code">
+<img src="https://skillicons.dev/icons?i=java,spring,c,py,js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,mongodb,mysql,firebase,threejs,flask,docker,vite,vercel,git&perline=11&theme=dark" alt="Java, Spring, C, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind, Prisma, PostgreSQL, MongoDB, MySQL, Firebase, Three.js, Flask, Docker, Vite, Vercel, Git">
 
 <p>
   <img src="https://img.shields.io/badge/MediaPipe-0F1828?style=for-the-badge&logo=mediapipe&logoColor=3AE5EC" alt="MediaPipe">
