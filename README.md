@@ -27,13 +27,12 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 <p align="center">
   <a href="https://bookmyevent-rho.vercel.app"><img src="assets/card-bookmyevent.svg" width="49%" alt="BookMyEvent — oversell-safe event ticket booking with Spring Boot and Next.js"></a>
   <a href="https://github.com/lakshmanan272/miniredis"><img src="assets/card-miniredis.svg" width="49%" alt="MiniRedis — a Redis clone written in C with RESP, TTL expiry and a distributed lock"></a>
+  <a href="https://lakshmanan272.github.io/MY-PORTFOLIO-LAKSHMANAN/#work"><img src="assets/card-placement-portal.svg" width="49%" alt="Placement Portal — used daily by a class of 63 for 3 months"></a>
   <a href="https://github.com/lakshmanan272/agent-jarvis"><img src="assets/card-jarvis.svg" width="49%" alt="Jarvis — offline voice and text desktop agent for Windows"></a>
   <a href="https://kadai-ai.vercel.app"><img src="assets/card-kadai-ai.svg" width="49%" alt="Kadai AI — voice ordering agent for a supermarket in Tamil, Tanglish and English"></a>
   <a href="https://intel-shield-eta.vercel.app"><img src="assets/card-intel-shield.svg" width="49%" alt="Intel-Shield — evidence graph for investigative data"></a>
   <a href="https://roshambot.vercel.app"><img src="assets/card-roshambot.svg" width="49%" alt="Roshambot — rock paper scissors bot that learns your habits"></a>
-  <a href="https://blue-strike-tennis.vercel.app"><img src="assets/card-blue-strike.svg" width="49%" alt="Blue Strike Tennis — webcam motion-controlled 3D tennis"></a>
-  <a href="https://superjet-game.vercel.app"><img src="assets/card-head-jet.svg" width="49%" alt="Head Jet — arcade game you steer with your head using MediaPipe face tracking"></a>
-</p>
+  <a href="https://blue-strike-tennis.vercel.app"><img src="assets/card-blue-strike.svg" width="49%" alt="Blue Strike Tennis — webcam motion-controlled 3D tennis"></a></p>
 
 <details>
 <summary><b>More things I've built</b></summary>
@@ -43,7 +42,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 |:--|:--|:--|
 | **V3 Entertainments** | Multi-page site for a 3D-hologram advertising company. Next.js 14, Tailwind, Framer Motion, PostgreSQL quote form | [Live](https://v3-hologram-website.vercel.app) |
 | **SparkPhone QR** | Type a wish or a prank in English, Tamil or Tanglish; an LLM designs a full-screen phone page you share by QR | [Live](https://spark-phone-qr.vercel.app) |
-| **Placement Portal** | Next.js 14 + Prisma + Neon Postgres app my class of 63 uses to register hackathon and internship teams, with race-safe first-come slots | Private |
+| **Head Jet** | Arcade game you steer with your head: MediaPipe face tracking through the webcam | [Play](https://superjet-game.vercel.app) |
 | **OpportunityOS** | Self-hosted tracker that pulls hackathons and internships from Gmail and Unstop, extracts details with an LLM and escalates deadline reminders | Private |
 | **25 Online Jobs Guide** | Bilingual Tamil–English career guide: 25 pages generated from one template with a Node.js script | [Live](https://online-jobs-guide.vercel.app) · [Code](https://github.com/lakshmanan272/online-jobs-guide) |
 

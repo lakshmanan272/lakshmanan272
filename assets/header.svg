@@ -72,7 +72,7 @@
   <rect class="scan" x="812" y="58" width="324" height="2" fill="url(#scanG)"/>
 </g>
 <g class="brk"><path d="M812 82V56H838"/><path d="M1110 56H1136V82"/><path d="M812 278V304H838"/><path d="M1110 304H1136V278"/></g>
-<rect x="812" y="28" width="232" height="26" rx="4" fill="#3AE5EC"/>
-<text class="mono" x="823" y="46" font-size="13" font-weight="700" fill="#05070F">● TRACKING  lakshmanan272</text>
-<text class="mono" x="1136" y="328" font-size="13" text-anchor="end" fill="#3AE5EC">CONF 0.99 · id 272</text>
+<rect x="812" y="28" width="215.20000000000002" height="26" rx="4" fill="#3AE5EC"/>
+<text class="mono" x="823" y="46" font-size="13" font-weight="700" fill="#05070F">● ONLINE  lakshmanan272</text>
+<text class="mono" x="1136" y="328" font-size="13" text-anchor="end" fill="#3AE5EC">uptime 99.9% · id 272</text>
 </svg>
