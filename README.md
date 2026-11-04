@@ -25,7 +25,7 @@ I'm a Computer Science undergrad at **VSB College of Engineering Technical Campu
 ## Featured work
 
 <p align="center">
-  <a href="https://bookmyevent-rho.vercel.app"><img src="assets/card-bookmyevent.svg" width="49%" alt="BookMyEvent — oversell-safe event ticket booking with Spring Boot and Next.js"></a>
+  <a href="https://bookmyevent-fawn.vercel.app"><img src="assets/card-bookmyevent.svg" width="49%" alt="BookMyEvent — oversell-safe event ticket booking with Spring Boot and Next.js"></a>
   <a href="https://github.com/lakshmanan272/miniredis"><img src="assets/card-miniredis.svg" width="49%" alt="MiniRedis — a Redis clone written in C with RESP, TTL expiry and a distributed lock"></a>
   <a href="https://lakshmanan272.github.io/MY-PORTFOLIO-LAKSHMANAN/#work"><img src="assets/card-placement-portal.svg" width="49%" alt="Placement Portal — used daily by a class of 63 for 3 months"></a>
   <a href="https://github.com/lakshmanan272/agent-jarvis"><img src="assets/card-jarvis.svg" width="49%" alt="Jarvis — offline voice and text desktop agent for Windows"></a>
